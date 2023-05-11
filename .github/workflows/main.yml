@@ -26,8 +26,8 @@ env:
 # EDIT DEFAULT_COMMAND AND DEFAULT_RETRY_COMMAND IF YOU WANT ~
 # BUT DON'T REMOVE --SESSION IN DEFAULT_COMMAND AND DEFAULT_RETRY_COMMAND !!!
 
-  DEFAULT_COMMAND: python ms_rewards_farmer.py --session --virtual-display --dont-check-for-updates --dont-check-internet --currency INR --superfast --skip-unusual --error --no-images --on-finish exit --discord https://discord.com/api/webhooks/1100261439886852289/hjAfDfOSL_80VUt-dJ4OlIid5TSf9fxi9aR-xWPrYKhvTiOb0LGYp7gX-s-Jyqlimoa3 --print-to-webhook
-  DEFAULT_RETRY_COMMAND: python ms_rewards_farmer.py --session --virtual-display --dont-check-for-updates --dont-check-internet --currency INR --superfast --skip-unusual --error --no-images --on-finish exit --discord https://discord.com/api/webhooks/1100261439886852289/hjAfDfOSL_80VUt-dJ4OlIid5TSf9fxi9aR-xWPrYKhvTiOb0LGYp7gX-s-Jyqlimoa3 --print-to-webhook
+  DEFAULT_COMMAND: python ms_rewards_farmer.py --session --virtual-display --dont-check-for-updates --dont-check-internet --currency INR --superfast --skip-unusual --error --no-images --on-finish exit --discord https://discord.com/api/webhooks/1100261445360431165/g3UQc5R9jEeKAUTNV9aGROAWX--6JQQ1KGL-1euWLRGXvm7DzYnArZ52pEbRSvLV5Ase --print-to-webhook
+  DEFAULT_RETRY_COMMAND: python ms_rewards_farmer.py --session --virtual-display --dont-check-for-updates --dont-check-internet --currency INR --superfast --skip-unusual --error --no-images --on-finish exit --discord https://discord.com/api/webhooks/1100261445360431165/g3UQc5R9jEeKAUTNV9aGROAWX--6JQQ1KGL-1euWLRGXvm7DzYnArZ52pEbRSvLV5Ase --print-to-webhook
   HAS_SESSION: 1
 
 # DON'T TOUCH THIS
